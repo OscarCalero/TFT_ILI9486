@@ -1,4 +1,4 @@
-# TFT_ILI9486
+# TFT_ILI9486 over ESP32
 Sample of TFT ILI9486 with touch and SD for ESP32
 
 _Este es un ejemplo de como conectar la pantalla TFT ILI9486 a un microprocesador ESP32 y programarla con Arduino, para su utilización con su versión táctil, incorporando texto, botones e imágenes pre-grabadas en una tarjeta SD._
