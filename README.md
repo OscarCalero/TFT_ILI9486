@@ -14,7 +14,7 @@ Necesitamos:
 
 ```
 TFT ILI9486 o similar
-Controlador (librería) de TFT_eSPI de Bodmer: https://github.com/Bodmer/TFT_eSPI
+Controlador (librería) de TFT_eSPI de Bodmer: ![libreria TFT_eSPI Bodmer](https://github.com/Bodmer/TFT_eSPI)
 Una tarjeta SD, que en mi caso de de 8Gb
 Un procesador ESP32, aunque otros pueden funcionar igualmente
 ```
