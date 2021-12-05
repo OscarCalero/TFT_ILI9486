@@ -18,7 +18,7 @@ Controlador (librería) de TFT_eSPI de Bodmer
 Una tarjeta SD, que en mi caso de de 8Gb
 Un procesador ESP32, aunque otros pueden funcionar igualmente
 ```
-![libreria TFT_eSPI Bodmer](https://github.com/Bodmer/TFT_eSPI)
+[libreria TFT_eSPI Bodmer](https://github.com/Bodmer/TFT_eSPI)
 
 Recomiendo su montaje en 3 FASES de hardware:
 
